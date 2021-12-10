@@ -1,2 +1,2 @@
-# Title: How to convert Binary to Decimal
-# Author: Meredith Spiers
+## Title: How to convert Binary to Decimal
+### Author: Meredith Spiers
