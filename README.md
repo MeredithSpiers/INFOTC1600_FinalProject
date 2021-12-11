@@ -9,6 +9,7 @@ This tutorial is intended for people who want to learn more about IT and are new
 
 ## Binary to Decimal Conversion Tutorial 
 | Decimal number system | Binary number system | 
+| ----------- | ----------- |
 | Base 10 | Base 2 | 
 | 0-9 | 0-1 | 
 | Begins 1, 2, 3, 4, 5 | Begins 0, 1, 01, 10, 11 |
